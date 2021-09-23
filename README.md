@@ -37,8 +37,16 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
  
 
 <details>
- <summary>Mais sobre meu GitHub</summary>
-
+ <summary>boom Working on</summary>
+  <p align="center">
+    <a href="https://github.com/Defcon27/Machine-Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
+    </a>&ensp;
+    <a href="https://github.com/Defcon27/Deep-Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
+    </a>
+  </p>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
