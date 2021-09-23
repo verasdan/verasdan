@@ -1,16 +1,9 @@
-<img align="right" width="400" height="400" src="https://s3-sa-east-1.amazonaws.com/season-training/images/blog/blog-10.png">
-
-## Welcome!
-### I'm Dan!
 
 <div align="center">
   <a href="https://github.com/verasdan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend, atuando em pequenos projetos em Marketing de Conteúdo e Inbound para empreendedores e desenvolvedores.
 
@@ -19,7 +12,6 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 🇧🇷 Born in Porto Alegre, Brazil
 
  ## Conhecimentos / Knowledges
-
 
 
 - Thanks for visiting. 
