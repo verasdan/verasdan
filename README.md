@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dan-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CGCp2YKDxDtlb3U4qbalLHuIblOD72y5qlYRvE0/">
+  <img align="right" alt="Dan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/890317716836216884/890707640240472104/120830634_185644149827619_198507735215503993_n.jpg?width=370&height=370">
 </div>
 
 
