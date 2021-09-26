@@ -1,15 +1,26 @@
-### Quem sou...
-<img align="right" alt="Dan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/890317716836216884/890707974413221968/WhatsApp_Image_2021-09-15_at_11.20.31_AM.jpeg?width=370&height=370">
+## Quem sou...
 
 Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend, atuando em pequenos projetos em Marketing de Conteúdo e Inbound para empreendedores e desenvolvedores.
-
-Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprofundar em outras linguagens de programação.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=verasdan)
 
 🇧🇷 Born in Teresina-PI, Brazil
 
-<h3 text-align="center"> GitHub - Stats </h3>
+# Languages and Tools...
+
+<br>
+<img align="center" alt="Dan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+<img align="center" alt="Dan-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+<img align="center" alt="Dan-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+<img align="center" alt="Dan-laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+<img align="center" alt="Dan-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+
+
+<br>
+<br>
+<br>
+
+# GitHub - Stats 
 
 <br>
 
@@ -21,21 +32,19 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 
 <br>
 
-### Languages and Tools...
-
-
-em construção...
+# GitHub - Sttreak 
 
 <br>
-
 <div align="center">
 
 [![verasdan github streak](https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green)](https://github.com/verasdan/github-readme-streak-stats)
 
 </div>
- 
+
+<br>
+
 <details>
-  <summary> 💥 Working on </summary>
+  <summary> ----------------------💥 Working on ------------------------</summary>
 <br>
   <p align="center">
     <a href="https://github.com/verasdan/SistemaSuperGestao">
