@@ -9,14 +9,16 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 # Languages and Tools...
 
 <br>
+</div>
+<div style="display: inline_block"><br>
 <img align="center" alt="Dan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="Dan-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Dan-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <img align="center" alt="Dan-laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
 <img align="center" alt="Dan-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+</div>
 
 
-<br>
 <br>
 <br>
 
