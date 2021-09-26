@@ -9,7 +9,7 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 
 🇧🇷 Born in Teresina-PI, Brazil
 
-<h3 aling="center"> GitHub - Stats </h3>
+<h3 text-align="center"> GitHub - Stats </h3>
 
 <br>
 
