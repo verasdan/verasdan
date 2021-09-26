@@ -11,7 +11,7 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 
 
 
-### :GitHub - Stats:
+### GitHub - Stats
 
 <br>
 
@@ -23,7 +23,7 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 <br>
 
 
-### :Languages and Tools...:
+### Languages and Tools...
 
 
 em construção...
