@@ -30,11 +30,11 @@ em construção...
 
 <br>
 
-<p align="center">
+<div align="center">
 
 [![verasdan github streak](https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green)](https://github.com/verasdan/github-readme-streak-stats)
 
-</p>
+</div>
  
 <details>
   <summary> 💥 Working on </summary>
