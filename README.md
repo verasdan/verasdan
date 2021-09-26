@@ -9,7 +9,11 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 
 🇧🇷 Born in Teresina-PI, Brazil
 
+<<<<<<< HEAD
 <p align="center" font-weight: bold; > ## GitHub - Stats   </p>
+=======
+<p align="center">   <b> GitHub - Stats </b>  </p>
+>>>>>>> 6fc7281040bd050fec3ae253480ee65523139389
 
 <div align="center">
   <a href="https://github.com/verasdan">
