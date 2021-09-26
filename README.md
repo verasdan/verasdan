@@ -9,9 +9,7 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
 
 🇧🇷 Born in Teresina-PI, Brazil
 
-
-
-### GitHub - Stats
+<h3 aling="center"> GitHub - Stats </h3>
 
 <br>
 
@@ -20,8 +18,8 @@ Atualmente estou aprendendo mais sobre PHP e LARAVEL, futuramente busco me aprof
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-<br>
 
+<br>
 
 ### Languages and Tools...
 
