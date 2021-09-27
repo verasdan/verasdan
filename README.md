@@ -1,28 +1,61 @@
-## Quem sou...
+<!-- TOPO -->
+<h1 align="center"> Hi there 👋, I'm Dan.</h1>
+<h3 align="center"> Developer Backend </h3>
 
-Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend, atuando em pequenos projetos em Marketing de Conteúdo e Inbound para empreendedores e desenvolvedores.
+<!-- Contatos -->
+<div align="center">   
 
-![Profile Views](https://komarev.com/ghpvc/?username=verasdan)
+  <a href="#">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
-🇧🇷 Born in Teresina-PI, Brazil
-
-# Languages and Tools...
-
-<br>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Dan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<img align="center" alt="Dan-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="Dan-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-<img align="center" alt="Dan-laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-<img align="center" alt="Dan-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-</div>
-
 
 <br>
+
+<!-- Sobre -->
+Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.
+
 <br>
 
-# GitHub - Stats 
+___
+
+<br>
+
+**Languages**<br>
+
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+**Front End Tools** <br>
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
+  </a> 
+    <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+**Framework**<br>
+  </a> 
+    <a href="#">
+    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<br>
+
+___
+
+<br>
+
+<h2 align="center"> Github Stats </h2>
 
 <br>
 
@@ -34,7 +67,11 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 
 <br>
 
-# GitHub - Sttreak 
+___
+
+<br>
+
+<h2 align="center"> GitHub - Streak </h2>
 
 <br>
 
@@ -46,8 +83,9 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 
 <br>
 
+___
 <details>
-  <summary> ----------------------💥 Working on ------------------------</summary>
+  <summary> --------- 💥 Working on ---------</summary>
 <br>
   <p align="center">
     <a href="https://github.com/verasdan/SistemaSuperGestao">
@@ -59,3 +97,15 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
   </p>
   
 </details>
+
+
+___
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=verasdan&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat-square)
+
+</div>
+
+
