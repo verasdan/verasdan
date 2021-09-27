@@ -37,8 +37,9 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 # GitHub - Sttreak 
 
 <br>
-<div align="center">
 
+<div align="center">
+  
 [![verasdan github streak](https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green)](https://github.com/verasdan/github-readme-streak-stats)
 
 </div>
