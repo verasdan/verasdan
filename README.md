@@ -112,6 +112,8 @@ ___
 <!-- outros -->
 <div align="center">
 
+<br>
+
 ![](https://komarev.com/ghpvc/?username=verasdan&style=flat-square&label=Views)
 ![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat-square)
 
