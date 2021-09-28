@@ -2,18 +2,15 @@
 <h1 align="center"> Hi there 👋, I'm Dan.</h1>
 <h3 align="center"> Developer Backend </h3>
 
-<!-- Contatos -->
+<!-- Contatos / Redes Sociais -->
 <div align="center">   
 
-  <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>  
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/verasdanilo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/veras_dan/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=flat)](https://twitter.com/veras_dan)
+  
 
 </div>
 
@@ -28,26 +25,41 @@ ___
 
 <br>
 
+
 **Languages**<br>
 
-  <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&style=flat)
 
-**Front End Tools** <br>
+**Front End** <br>
 
-  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
-  </a> 
-    <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
-  </a> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat)
 
 **Framework**<br>
-  </a> 
-    <a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a> 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&style=flat)
+
+**Database**<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)
+</div>
+
+**IDE's**<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important&style=flat)
+
+
+**Version Control**<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat)
+
+
+**Others**<br>
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=flat)
+
 
 <br>
 
@@ -86,7 +98,9 @@ ___
 ___
 <details>
   <summary> --------- 💥 Working on ---------</summary>
+
 <br>
+
   <p align="center">
     <a href="https://github.com/verasdan/SistemaSuperGestao">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=verasdan&repo=SistemaSuperGestao&show_owner=true&theme=react" />
@@ -105,6 +119,8 @@ ___
 
 ![](https://komarev.com/ghpvc/?username=verasdan&style=flat-square&label=Views)
 ![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat-square)
+
+[![Profile last updated](https://img.shields.io/github/last-commit/verasdan/verasdan/main?label=Last%20updated&style=flat)](https://github.com/verasdan/verasdan/commits)
 
 </div>
 
