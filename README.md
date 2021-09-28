@@ -2,10 +2,6 @@
 <h1 align="center"> Hi there 👋, I'm Dan.</h1>
 <h2 align="center"> Developer Backend </h2>
 
-<div align="center">
-<img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-
 <!-- Contatos / Redes Sociais -->
 <div align="center"><br>
 
@@ -61,7 +57,8 @@ ___
 
 <br>
 
-<h2 align="center"> ⚙️ GitHub Analytics:</h2>
+<!-- GitHub Analytics -->
+<h2 align="center"> ⚙️ GitHub Analytics</h2>
 
 <br>
 
@@ -77,6 +74,7 @@ ___
 
 <br>
 
+<!-- GitHub Streak -->
 <h2 align="center"> 🔥 GitHub - Streak </h2>
 
 <br>
@@ -89,6 +87,8 @@ ___
 
 <br>
 
+
+<!-- detalhes -->
 ___
 <details>
   <summary align="center"> --------- 💥 Working on ---------</summary>
@@ -109,6 +109,7 @@ ___
 
 ___
 
+<!-- outros -->
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=verasdan&style=flat-square&label=Views)
