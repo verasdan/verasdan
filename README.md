@@ -1,6 +1,5 @@
 <!-- TOPO -->
-<h1 align="center"> Hi there 👋, I'm Dan.</h1>
-<h2 align="center"> Developer Backend </h2>
+[![website](assinatura-github.png)](https://verasdan.github.io/)
 
 <!-- Contatos / Redes Sociais -->
 <div align="center"><br>
@@ -14,6 +13,7 @@
 <!-- Sobre -->
 Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.
 
+Veja mais no meu [Web Profile](https://verasdan.github.io/)
 ___
 
 <!-- Hard Skills -->
