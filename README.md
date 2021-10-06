@@ -96,9 +96,7 @@ ___
 <br>
 
   <p align="center">
-    <a href="https://github.com/verasdan/SistemaSuperGestao">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verasdan&repo=SistemaSuperGestao&show_owner=true&theme=react" />
-    </a>&ensp;
+    &ensp;
     <a href="https://github.com/verasdan/SistemaLogin">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=verasdan&repo=SistemaLogin&show_owner=true&theme=react" />
     </a>
