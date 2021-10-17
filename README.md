@@ -58,8 +58,9 @@
 
 <h3 align="left">Versionamento:</h3>
 <div style="display: inline_block">
-<img height="30" width="40" src="	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
 </div>
 
 <br><br><br><br><br><br><br><br><br>
