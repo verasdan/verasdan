@@ -1,7 +1,7 @@
 <!-- Sobre -->
 <div style="display: inline_block;"><br>
 
-<img style="margin-right: 30px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899348180909584424/perfil-github.png" min-width="300px" max-width="300px" width="200px" align="left" alt="logo" href="https://verasdan.github.io/">
+<img style="margin-right: 30px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899377150908583936/images.png" min-width="300px" max-width="300px" width="200px" align="left" alt="logo" href="https://verasdan.github.io/">
 
 <br>
 <div align="center">
@@ -19,8 +19,6 @@
 <a href="https://twitter.com/veras_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veras_dan" height="30" width="40" /></a>
 </div>
 
-
-
 </div>
 
 </div>
@@ -32,32 +30,37 @@
 <!-- Hard Skills -->
 <h2 align="center"> 🔧 Hard Skills:</h2>
 
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo"> 
-
-
 
 <br>
 
 <!-- Skill -->
 <h3 align="left">Languages:</h3>
+<div style="display: inline_block">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</div>
+
+<br>
+
 <h3 align="left">Learning:</h3>
+<div style="display: inline_block">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-
+</div>
+  
 <br>
 
 <h3 align="left">Versionamento:</h3>
-<img height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">	
+<div style="display: inline_block">
+<img height="30" width="40" src="	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">	
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-
+</div>
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -77,9 +80,7 @@
 <br><br>
 <hr>
 
-
 <br>
-
 
 <!-- GitHub Streak -->
 <h2 align="center"> 🔥 GitHub - Streak </h2>
@@ -93,7 +94,6 @@
 </div>
 
 <br>
-
 
 <!-- detalhes -->
 <hr>
@@ -111,12 +111,11 @@
   
 </details>
 
-
 <hr>
 <br><br>
 
 
-
+[![website](assinatura-github.png)](https://verasdan.github.io/)
 
 <div align="center">
 
