@@ -1,7 +1,7 @@
 <!-- Sobre -->
 <div style="display: inline_block;"><br>
 
-<img style="margin-right: 30px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899377150908583936/images.png" min-width="300px" max-width="300px" width="200px" align="left" alt="logo" href="https://verasdan.github.io/">
+<img style="margin-right: 30px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899348180909584424/perfil-github.png" min-width="300px" max-width="300px" width="200px" align="left" alt="logo" href="https://verasdan.github.io/">
 
 <br>
 <div align="center">
@@ -43,7 +43,6 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </div>
-
 <br>
 
 <h3 align="left">Learning:</h3>
@@ -58,7 +57,7 @@
 
 <h3 align="left">Versionamento:</h3>
 <div style="display: inline_block">
-<img height="30" width="40" src="	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">	
+<img height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">	
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 </div>
 
@@ -115,7 +114,7 @@
 <br><br>
 
 
-[![website](assinatura-github.png)](https://verasdan.github.io/)
+[![website](perfil-github.png)](https://verasdan.github.io/)
 
 <div align="center">
 
