@@ -36,25 +36,30 @@
 
 <!-- Skill -->
 <h3 align="left">Languages:</h3>
+<div style="display: inline_block">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
+</div>
 <br>
 
 <h3 align="left">Learning:</h3>
+<div style="display: inline_block">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-
+</div>
+  
 <br>
 
 <h3 align="left">Versionamento:</h3>
+<div style="display: inline_block">
 <img height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">	
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+</div>
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -107,6 +112,9 @@
 
 <hr>
 <br><br>
+
+
+[![website](perfil-github.png)](https://verasdan.github.io/)
 
 <div align="center">
 
