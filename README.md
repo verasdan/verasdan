@@ -1,70 +1,67 @@
-<!-- TOPO -->
-[![website](assinatura-github.png)](https://verasdan.github.io/)
-
-<!-- Contatos / Redes Sociais -->
-<div align="center"><br>
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/verasdanilo/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/veras_dan/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=flat)](https://twitter.com/veras_dan)
-    
-</div><br>
-
 <!-- Sobre -->
-Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.
+<div style="display: inline_block;"><br>
 
-Veja mais no meu [Web Profile](https://verasdan.github.io/)
-___
+<img style="margin-right: 30px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899348180909584424/perfil-github.png" min-width="300px" max-width="300px" width="200px" align="left" alt="logo" href="https://verasdan.github.io/">
 
+<br>
+<div align="center">
+
+<div>
+<p align="left">Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.</p>
+</div>
+<br>
+
+<!-- social icon-->
+<div>
+<h2>Social</h2>
+<a href="https://linkedin.com/in/verasdanilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="verasdanilo" height="30" width="40" /></a>
+<a href="https://instagram.com/veras_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veras_dan" height="30" width="40" /></a>
+<a href="https://twitter.com/veras_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veras_dan" height="30" width="40" /></a>
+</div>
+
+
+
+</div>
+
+</div>
+
+<br>
+
+<hr>
+  
 <!-- Hard Skills -->
 <h2 align="center"> 🔧 Hard Skills:</h2>
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo"> 
 
+
+
+<br>
+
 <!-- Skill -->
-
-**Programming Languages and Database**
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&style=flat)
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat)
-
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)
-
-**Development Tools**<br>
-
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important&style=flat)
-
-**Version Control**<br>
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
-![Bitbucket](https://img.shields.io/badge/BitBucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat)
-
-**Utilities Tools**<br>
-
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=flat)
-
-**Operational Systems**<br>
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat)
-
+<h3 align="left">Languages:</h3>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<h3 align="left">Learning:</h3>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 
 <br>
-<br>
-<br>
 
-___
+<h3 align="left">Versionamento:</h3>
+<img height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">	
+<img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 
-<br>
+
+<br><br><br><br><br><br><br><br><br>
+
+<hr>
 
 <!-- GitHub Analytics -->
 <h2 align="center"> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Analytics</h2>
@@ -77,11 +74,12 @@ ___
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
+<br><br>
+<hr>
+
+
 <br>
 
-___
-
-<br>
 
 <!-- GitHub Streak -->
 <h2 align="center"> 🔥 GitHub - Streak </h2>
@@ -98,7 +96,7 @@ ___
 
 
 <!-- detalhes -->
-___
+<hr>
 <details>
   <summary align="center"> --------- 💥 Working on ---------</summary>
 
@@ -114,18 +112,17 @@ ___
 </details>
 
 
-___
+<hr>
+<br><br>
 
-<!-- outros -->
+
+
+
 <div align="center">
 
-<br>
+![](https://komarev.com/ghpvc/?username=verasdan&style=flat&label=Views)
+![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat)
 
-![](https://komarev.com/ghpvc/?username=verasdan&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat-square)
-
-[![Profile last updated](https://img.shields.io/github/last-commit/verasdan/verasdan/main?label=Last%20updated&style=flat)](https://github.com/verasdan/verasdan/commits)
+<a href="https://twitter.com/veras_dan" target="blank"><img src="https://img.shields.io/twitter/follow/veras_dan?logo=twitter&style=flat" alt="veras_dan" /></a> 
 
 </div>
-
-
