@@ -1,7 +1,7 @@
 <!-- Sobre -->
 <div style="display: inline_block;"><br>
 
-<img style="margin-right: 30px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899377150908583936/images.png" min-width="300px" max-width="300px" width="200px" align="left" alt="logo" href="https://verasdan.github.io/">
+<img style="margin-right: 60px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899377150908583936/images.png" min-width="300px" max-width="400px" width="400px" align="left" alt="logo" href="https://verasdan.github.io/">
 
 <br>
 <div align="center">
@@ -10,14 +10,24 @@
 <p align="left">Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.</p>
 </div>
 <br>
-
-<!-- social icon-->
+<br>
+  
+  <!-- social icon-->
 <div>
 <h2>Social</h2>
 <a href="https://linkedin.com/in/verasdanilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="verasdanilo" height="30" width="40" /></a>
 <a href="https://instagram.com/veras_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veras_dan" height="30" width="40" /></a>
 <a href="https://twitter.com/veras_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veras_dan" height="30" width="40" /></a>
 </div>
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+
 
 </div>
 
