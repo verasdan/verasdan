@@ -1,7 +1,7 @@
 <!-- Sobre -->
 <div style="display: inline_block;"><br>
 
-<img style="margin-right: 60px;" src="https://cdn.discordapp.com/attachments/891798888594436199/899377150908583936/images.png" min-width="300px" max-width="400px" width="400px" align="left" alt="logo" href="https://verasdan.github.io/">
+
 
 <br>
 <div align="center">
