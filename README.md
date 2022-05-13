@@ -2,15 +2,31 @@
 <div style="display: inline_block;"><br>
 
 
+<img align="right" src="https://komarev.com/ghpvc/?username=verasdan" alt="page views">
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Dan+Veras;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 <br>
-<div align="center">
 
-<div>
 <p align="left">Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.</p>
 </div>
 <br>
 <br>
+
+
+
+</p>
   
   <!-- social icon-->
 <div>
@@ -26,8 +42,10 @@
 <br>
 <br>
 <br>
-  
-
+<p align="left">
+  <a href="https://github.com/verasdan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/verasdan/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+</p>
 
 </div>
 
@@ -131,6 +149,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=verasdan&style=flat&label=Views)
+
 ![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat)
 
 <a href="https://twitter.com/veras_dan" target="blank"><img src="https://img.shields.io/twitter/follow/veras_dan?logo=twitter&style=flat" alt="veras_dan" /></a> 
