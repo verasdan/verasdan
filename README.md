@@ -93,18 +93,16 @@
 
 <br>
 
-<!-- GitHub Streak -->
-<h2 align="center"> 🔥 GitHub - Streak </h2>
 
-<br>
+## 🔥 Streak stats
 
-<div align="center">
-  
-[![verasdan github streak](https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green)](https://github.com/verasdan/github-readme-streak-stats)
+<!-- GitHub Readme Streak Stats - https://github.com/veradan/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/verasdan/github-readme-streak-stats">
 
-</div>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="verasdan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green"/>
 
-<br>
+</a>
 
 <!-- detalhes -->
 <hr>
