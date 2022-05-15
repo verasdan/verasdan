@@ -49,8 +49,8 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 
   <p align="center">
     &ensp;
-    <a href="https://github.com/verasdan/SistemaLogin">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verasdan&repo=SistemaLogin&show_owner=true&theme=react" />
+    <a href="https://github.com/verasdan/github-finder">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verasdan&repo=github-finder&show_owner=true&theme=react" />
     </a>
   </p>
   
