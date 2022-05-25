@@ -13,6 +13,9 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 [![GitHub Thaiane](https://img.shields.io/github/followers/verasdan?label=follow&style=social)](https://github.com/verasdan)
 
 <br>
+<p align="left">
+  <a href="https://github.com/verasdan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 ## 📊 GitHub Status
 
@@ -35,37 +38,8 @@ Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo 
 <!-- GitHub Readme Streak Stats - https://github.com/veradan/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/verasdan/github-readme-streak-stats">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="verasdan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green"/></a>
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="verasdan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green"/>
-
-</a>
-
-<!-- detalhes -->
-<hr>
-<details>
-  <summary align="center"> --------- 💥 Working on ---------</summary>
-
-<br>
-
-  <p align="center">
-    &ensp;
-    <a href="https://github.com/verasdan/github-finder">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verasdan&repo=github-finder&show_owner=true&theme=react" />
-    </a>
-  </p>
-  
-</details>
-
-<hr>
-<br><br>
+</p>  
 
 
-
-[![website](assinatura-github.png)](https://verasdan.github.io/)
-
-
-
-<p align="left">
-  <a href="https://github.com/verasdan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/verasdan/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
