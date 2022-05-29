@@ -27,10 +27,11 @@
 <br>
   
 <span align="center">
-  <a href="https://github.com/verasdan">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+
+  [![verasdan's github](https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dark&include_all_commits=true&count_private=true")
+
   [![verasdan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&theme=dark)](https://github.com/verasdan/github-readme-stats)
+  
 </span>
 
 <br><br>
