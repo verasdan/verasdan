@@ -1,34 +1,43 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Dan+Veras;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+[![Hi, I'm Dan Veras](./assets/cover.png)](#)
 
-Apaixonado por programação e marketing digital. Atualmente ando desenvolvendo pequenos trabalhos como freelancer na área de Desenvolvedor Backend e atuando em pequenos projetos em Marketing de Conteúdo.
+<span align="center">
+  
+  <a href="mailto:veras_dan@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verasdanilo)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/veras_dan)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veras_dan/)
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Dan#5690)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dveras1623)
+</span>
 
+---
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/veras_dan?style=social)](https://twitter.com/veras_dan)
-[![Linkedin: verasdanilo](https://img.shields.io/badge/-verasdanilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verasdanilo/)](https://www.linkedin.com/in/verasdanilo/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/verasdan?label=follow&style=social)](https://github.com/verasdan)
+<h2>GITHUB STATS</h2>
 
-<br>
-<p align="left">
-  <a href="https://github.com/verasdan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+<span align="center">
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/verasdan/verasdan?style=for-the-badge&color=F27E2D)](#)
+  [![Repos Badge](https://badges.pufler.dev/repos/verasdan?style=for-the-badge&color=F27E2D)](https://github.com/verasdan?tab=repositories)
+  [![Updated Badge](https://badges.pufler.dev/updated/verasdan/verasdan?style=for-the-badge&color=F27E2D)](https://github.com/verasdan)
+</span>
+
+---
 
 ## 📊 GitHub Status
 
 <br>
   
-<div align="center">
+<span align="center">
   <a href="https://github.com/verasdan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  [![verasdan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&theme=dark)](https://github.com/verasdan/github-readme-stats)
+</span>
 
 <br><br>
-<hr>
+
+---
 
 <br>
 
