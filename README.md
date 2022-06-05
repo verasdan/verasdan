@@ -20,6 +20,10 @@
   [![Visits Badge](https://badges.pufler.dev/visits/verasdan/verasdan?style=for-the-badge&color=F27E2D)](#)
   [![Repos Badge](https://badges.pufler.dev/repos/verasdan?style=for-the-badge&color=F27E2D)](https://github.com/verasdan?tab=repositories)
   [![Updated Badge](https://badges.pufler.dev/updated/verasdan/verasdan?style=for-the-badge&color=F27E2D)](https://github.com/verasdan)
+
+
+
+
 </span>
 
 ---
@@ -28,10 +32,12 @@
   
 <span align="center">
 
-  [![verasdan's github](https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=dark&include_all_commits=true&count_private=true")
+<div>
+<a href="https://github.com/verasdan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
-  [![verasdan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&theme=dark)](https://github.com/verasdan/github-readme-stats)
-  
+</div>
 </span>
 
 <br><br>
@@ -46,8 +52,10 @@
 <!-- GitHub Readme Streak Stats - https://github.com/veradan/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/verasdan/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="verasdan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=blue-green"/></a>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="verasdan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=verasdan&theme=elegant"/></a>
 
 </p>  
 
-
+<br>
+<br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=verasdan&label=Profile%20views&color=0e75b6&style=flat" alt="verasdan" /> </p>
