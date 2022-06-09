@@ -1,5 +1,6 @@
 
-[![Hi, I'm Dan Veras](./assets/cover.png)](#)
+[![Hi, I'm Dan Veras](https://raw.githubusercontent.com/gist/verasdan/bbbbcc3ea5bd5ac9f36447da9e574f48/raw/1c8824338fb46a8e3a403ad5fe1d041c7c436556/banner_profile.svg)](#)
+
 
 <span align="center">
   
@@ -59,3 +60,7 @@
 <br>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=verasdan&label=Profile%20views&color=0e75b6&style=flat" alt="verasdan" /> </p>
+
+<script type="module" src="https://unpkg.com/@rocktimsaikia/github-card@latest?module"></script>
+
+<github-card data-user="rocktimsaikia" data-theme="dark"></github-card>
