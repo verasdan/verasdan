@@ -9,15 +9,11 @@
 
 <span align="center">
   
-  [![Visits Badge](https://badges.pufler.dev/visits/verasdan/verasdan?style=for-the-badge&color=F27E2D)](#)
+  [![Status](https://komarev.com/ghpvc/?username=verasdan&label=Profile%20views&style=for-the-badge&color=orange)](https://github.com/verasdan)
   [![Repos Badge](https://badges.pufler.dev/repos/verasdan?style=for-the-badge&color=F27E2D)](https://github.com/verasdan?tab=repositories)
-  [![Updated Badge](https://img.shields.io/github/last-commit/verasdan/verasdan?style=flat-square&color=orange)](https://github.com/verasdan)
-  [![Contributors](https://img.shields.io/github/contributors/verasdan/verasdan?style=flat-square&color=orange)](https://github.com/verasdan)
-
-  [![Contributors](https://img.shields.io/github/status/s/pulls/verasdan/gestao_clientes/1110?color=orange&style=flat-square)](https://github.com/verasdan)
+  [![Updated Badge](https://img.shields.io/github/last-commit/verasdan/verasdan?style=for-the-badge&color=orange)](https://github.com/verasdan)
   
-
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=verasdan&label=Profile%20views&color=0e75b6&style=flat" alt="verasdan" /> </p>
+ 
 
 </span>
 
@@ -33,8 +29,8 @@
 
 <div>
 <a href="https://github.com/verasdan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=verasdan&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasdan&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
 </div>
 </span>
