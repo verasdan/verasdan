@@ -66,3 +66,13 @@
   [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dveras1623)
 
 </span>
+<br>
+
+---
+<br>
+
+<span align="center">
+
+<img width="450em" src="https://github-readme-twitter-gazf.vercel.app/api?id=veras_dan&layout=wide&show_reply=off&show_retweet=off" />
+
+</span>
